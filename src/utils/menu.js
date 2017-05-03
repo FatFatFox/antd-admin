@@ -2,7 +2,7 @@ module.exports = [
   {
     id: 1,
     icon: 'laptop',
-    name: 'Dashboard',
+    name: '首页',
     router: '/dashboard',
   },
   {
